@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anirudh Rai</h1>
+<h1 align="center">Hi 👋, I'm Last Madanhire</h1>
 
 
 
@@ -41,8 +41,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
 ------
-
-
-[ANii693](https://github.com/ANii693)
-
-Last Edited on: 28/02/2023
