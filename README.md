@@ -10,6 +10,7 @@
 
 
 <br>
+<hr height="50px"/>
 
 
 <h3>My GitHub Stats</h3>
